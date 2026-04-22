@@ -30,3 +30,7 @@ php artisan serve
 ## Key Files
 
 - `README.md`
+
+## Dev Protocol
+
+See `Hub/playbook/dev-protocol.md` for the canonical Dev Protocol (git workflow, testing, secrets, authorship, Brain/learning hooks, cross-project boundaries).
